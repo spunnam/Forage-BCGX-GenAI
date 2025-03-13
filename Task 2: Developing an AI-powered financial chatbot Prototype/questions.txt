@@ -1,0 +1,34 @@
+Available Queries:
+------------------
+1. What is the total revenue?
+2. What is the Net Income?
+3. What is the sum of total assets?
+4. What is the sum of total liabilities?
+5. What is cash flow from operating activities?
+6. What is the revenue growth(%) ?
+7. What is the net income growth(%) ?
+8. What is the assets growth(%) ?
+9. What is the liabilities growth(%) ?
+10. What is the cash flow from operations growth(%) ?
+11. What is the year by year average revenue growth rate(%)?
+12. What is the year by year average net income growth rate(%)?
+13. What is the year by year average assets growth rate(%)?
+14. What is the year by year average liabilities growth rate(%)?
+15. What is the year by year average cash flow from operations growth rate(%)?
+
+Instructions:
+--------------
+- Choose a company from Apple, Microsoft, or Tesla.
+- Enter a valid fiscal year (e.g., 2022, 2023, 2024) for single-year queries.
+- Use **year-over-year average queries** to get multi-year insights.
+
+Example Usage:
+--------------
+Company: Apple
+Fiscal Year: 2023
+Query: What is the total revenue?
+
+OR
+
+Company: Microsoft
+Query: What is the year by year average revenue growth rate(%)?
